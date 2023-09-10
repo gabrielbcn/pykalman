@@ -2,7 +2,8 @@
 [pykalman](http://pykalman.github.com)
 
 Note: forked in 2023 to correct use of deprecated function
-`pip install git+ssh://git@github.com/gabrielbcn/pykalman.git`
+
+    $ pip install git+ssh://git@github.com/gabrielbcn/pykalman.git`
 
 
 Welcome to [pykalman](http://pykalman.github.com), the dead-simple Kalman
