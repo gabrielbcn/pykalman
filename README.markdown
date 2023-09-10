@@ -1,10 +1,12 @@
 
 [pykalman](http://pykalman.github.com)
 
-Note: forked in 2023 to correct use of deprecated function
+Note: forked in 2023 to correct use of deprecated function*
 
     $ pip install git+ssh://git@github.com/gabrielbcn/pykalman.git`
 
+
+Rest of README as original:
 
 Welcome to [pykalman](http://pykalman.github.com), the dead-simple Kalman
 Filter, Kalman Smoother, and EM library for Python
