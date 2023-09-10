@@ -1,6 +1,8 @@
-======================================
+
 [pykalman](http://pykalman.github.com)
-======================================
+
+Note: forked in 2023 to correct use of deprecated function
+
 
 Welcome to [pykalman](http://pykalman.github.com), the dead-simple Kalman
 Filter, Kalman Smoother, and EM library for Python
