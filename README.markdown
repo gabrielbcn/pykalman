@@ -4,7 +4,7 @@
 
     $ pip install git+ssh://git@github.com/gabrielbcn/pykalman.git`
 
-Rest of README as original:
+*Rest of README as original*
 
 Welcome to [pykalman](http://pykalman.github.com), the dead-simple Kalman
 Filter, Kalman Smoother, and EM library for Python
